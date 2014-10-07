@@ -1,6 +1,6 @@
 GUT Tracker Twocat
 ==================
 
-GUT Tracker TwoCat module.
+BetSoftware's GUT Tracker TwoCat module.
 
 Web: http://betselection.cc/betsoftware/
